@@ -1,7 +1,6 @@
 ---
-title: "Demo Post 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 11 2022"
+title: "Email Marketing Automation: 5 Powerful Strategies That Boost Engagement by 150%"
+description: "Master email marketing automation with proven strategies that increase open rates, drive conversions, and build customer loyalty. Learn segmentation, personalization, and workflow optimization techniques."
 heroImage: "/post_img.webp"
 ---
 
