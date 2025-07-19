@@ -1,8 +1,7 @@
 ---
 title: "Email Marketing Automation: 5 Powerful Strategies That Boost Engagement by 150%"
 description: "Master email marketing automation with proven strategies that increase open rates, drive conversions, and build customer loyalty. Learn segmentation, personalization, and workflow optimization techniques."
-heroImage: "<img width="413" height="254" alt="Email Marketing Automation" src="https://github.com/user-attachments/assets/2db792d9-fe91-496e-b625-075bd5423956" />
-/post_img.webp"
+heroImage: "<img width="413" height="254" alt="Email Marketing Automation" src="https://github.com/user-attachments/assets/2db792d9-fe91-496e-b625-075bd5423956" />"
 ---
 
 Brief Summary 
