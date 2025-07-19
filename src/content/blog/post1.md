@@ -4,7 +4,7 @@ description: "Discover powerful Google Ads optimization techniques used by top d
 pubDate: "Jul 19 2025"
 heroImage: "/<img width="1075" height="635" alt="Google Ads optimization" src="https://github.com/user-attachments/assets/f1c9757f-f2cc-41af-958c-cc9aa0fcd19d" />
 "
-tags: ["united states of america united kingdom nigeria kenya "]
+tags: ["nigeria"]
 ---
 
 
