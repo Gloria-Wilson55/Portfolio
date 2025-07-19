@@ -1,5 +1,4 @@
----
-title: "7 Proven Google Ads Optimization Strategies That Increase ROI by 300%"
+---title: "7 Proven Google Ads Optimization Strategies That Increase ROI by 300%"
 description: "Discover powerful Google Ads optimization techniques used by top digital marketers. Learn bidding strategies, keyword research, and conversion tracking that boost campaign performance instantly."
 pubDate: "Jul 19 2025"
 heroImage: "/<img width="1075" height="635" alt="Google Ads optimization" src="https://github.com/user-attachments/assets/f1c9757f-f2cc-41af-958c-cc9aa0fcd19d" />
